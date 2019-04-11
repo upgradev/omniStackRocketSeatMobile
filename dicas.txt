@@ -1,0 +1,2 @@
+instalações:
+yarn add react-navigation react-native-gesture-handler -> navegação e gestos para o menu
