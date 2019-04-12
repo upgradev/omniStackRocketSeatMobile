@@ -1,2 +1,24 @@
 instalações:
+
 yarn add react-navigation react-native-gesture-handler -> navegação e gestos para o menu
+
+axios -> reqauisições
+
+@react-native-community/async-storage -> criar um local onde armazena os dados de usuario ou de alguma coisa salva q 
+precisa recuperar os dados cadastrados ou atualiados;
+
+react-native-vector-icons -> icones
+
+react-native-fs -> lidar com arquivos
+
+react-native-image-picker -> abrir galeria, tirar a fotos
+configurar a camera -> https://github.com/react-native-community/react-native-image-picker/blob/master/docs/Install.md
+
+react-native-file-viewer -> abrir arquivos na aplicação
+file-viewer -> https://github.com/react-native-community/react-native-image-picker/blob/master/docs/Install.md
+
+react-native-iphone-x-helper -> lib para calcular status bar
+
+date-fns -> formatação de datas
+
+socket.io-client

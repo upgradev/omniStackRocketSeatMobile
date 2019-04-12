@@ -1,9 +1,9 @@
 import React from 'react';
 
-import { View } from 'react-native';
+import  Routes  from './routes';
 
 // import { Container } from './styles';
 
-const src = () => <View />;
+const src = () => <Routes />;
 
 export default src;
